@@ -1,5 +1,5 @@
 # Hi, I'm Hayrunnisa !
-👩🏻‍💻 Student at Gustave Eiffel University in Multimedia and Internet professions<br>⚡️Web development: html, css, javascript.PHP, SQl in progress…<br><br>
+👩🏻‍💻 Student at Gustave Eiffel University in Multimedia and Internet professions<br>⚡️Web development: React, Three, Typescript, PHP, SQL, html, css, javascript.<br><br>
 
 
 ## 🌍 Socials
